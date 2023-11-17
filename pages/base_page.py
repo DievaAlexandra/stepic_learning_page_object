@@ -13,3 +13,4 @@ class BasePage():
     # метод open для открытия нужной страницы в браузере
     def open(self):
         self.browser.get(self.url)
+
