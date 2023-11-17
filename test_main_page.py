@@ -1,5 +1,5 @@
 #обязательно нужно импортировать класс описывающий главную страницу
-from .pages.main_page import MainPage
+from pages.main_page import MainPage
 from selenium.webdriver.common.by import By
 
 
